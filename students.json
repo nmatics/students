@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Katlyn",
+    "state": "Ohio",
+    "grades": [60, 70, 80],
+    "timesCalled": 1,
+    "notes": [null]
+  },
+  {
+    "id": 2,
+    "name": "Zelma",
+    "state": "Texas",
+    "grades": [60, 70, 80],
+    "timesCalled": 5,
+    "notes": [null]
+  },
+  {
+    "id": 3,
+    "name": "Elias",
+    "state": "Washington",
+    "grades": [60, 70, 80],
+    "timesCalled": 2,
+    "notes": [null]
+  },
+  {
+    "id": 4,
+    "name": "Shana",
+    "state": "Wymoning",
+    "grades": [60, 70, 80],
+    "timesCalled": 0,
+    "notes": [null]
+  },
+  {
+    "id": 5,
+    "name": "Ebba",
+    "state": "Florida",
+    "grades": [60, 70, 80],
+    "timesCalled": 0,
+    "notes": [null]
+  },
+  {
+    "id": 6,
+    "name": "Modesta",
+    "state": "Missouri",
+    "grades": [60, 70, 80],
+    "timesCalled": 2,
+    "notes": [null]
+  },
+  {
+    "id": 7,
+    "name": "Krystel",
+    "state": "California",
+    "grades": [60, 70, 80],
+    "timesCalled": 6,
+    "notes": [null]
+  },
+  {
+    "id": 8,
+    "name": "Wilfredo",
+    "state": "Arizona",
+    "grades": [60, 70, 80],
+    "timesCalled": 0,
+    "notes": [null]
+  },
+  {
+    "id": 9,
+    "name": "Jovanny",
+    "state": "Colorado",
+    "grades": [60, 70, 80],
+    "timesCalled": 0,
+    "notes": [null]
+  },
+  {
+    "id": 10,
+    "name": "Darby",
+    "state": "Michigan",
+    "grades": [60, 70, 80],
+    "timesCalled": 6,
+    "notes": [null]
+  }
+]
